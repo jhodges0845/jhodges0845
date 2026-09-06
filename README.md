@@ -6,7 +6,7 @@ I build software that turns complicated, manual, or fragile processes into syste
 
 Over 10+ years, I've worked across banking, manufacturing, industrial automation, business intelligence, and software integration. Much of my work starts with an existing system, a difficult constraint, or a problem that has resisted an easy solution. I enjoy finding the architecture underneath the problem and building a practical path forward.
 
-One solution I built directly enabled **~$400M in revenue**. Another resolved a business intelligence problem that had been pursued for **26 years**.
+One solution I built **removed critical process bottlenecks and enabled the business to support approximately $400M in revenue**. Another resolved a business intelligence problem that had been pursued for **26 years**.
 
 Today, I'm increasingly focused on **software architecture, developer tooling, automation, reusable frameworks, AI-assisted workflows, and game/3D technology**.
 
